@@ -10,7 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="110dp"
-        android:text="Second Activity"
+        android:text="@string/second_activity"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>

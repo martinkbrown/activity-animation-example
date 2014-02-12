@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, ActivityAnimationExampleActivity!</string>
     <string name="app_name">ActivityAnimationExample</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="start_second">Start Second Activity</string>
 
 </resources>
